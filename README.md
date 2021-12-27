@@ -2,7 +2,7 @@
 
 Smol data analysis projects.
 
-Incl.
+Incl:
 
  -> Boston house market
  
